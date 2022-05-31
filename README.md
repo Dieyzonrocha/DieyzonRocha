@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Sr. D😉  
   
-- 🔭 Atualmente trabalho com Servidores de produção.
+- 🔭 Atualmente trabalho com Servidores de produção bancária.
 - 🌱 Estudando HTML5, CSS3, JS, React...
 - 💬 Pergunte-me sobre: Ciência, astronomia, viagens temporais, teorias e TI.
 - 📫 E-mail Profissional: dieyzon.rocha@atp.com.br
