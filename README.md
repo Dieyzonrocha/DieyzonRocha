@@ -4,6 +4,7 @@
 - 🌱 Estudando HTML5, CSS3, JS, React...
 - 💬 Pergunte-me sobre: Ciência, astronomia, viagens temporais, teorias e TI.
 - 📫 E-mail Profissional: dieyzon.rocha@atp.com.br
+- 🌎 Portfólio: https://dieyzonrocha.github.io/DieyzonRocha/
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou imortal.
 
