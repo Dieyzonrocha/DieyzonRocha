@@ -23,7 +23,6 @@
   <img align="center" alt="Dede-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Dede-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="Dede-Csharp" height="30" width="90"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Dede-MySql" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />"
   <!--  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://pixabay.com/pt/photos/código-codificação-computador-dados-1839406/ -->
