@@ -41,5 +41,7 @@
     
   </div>
   
+  ![snake gif](https://github.com/Dieyzonrocha/Dieyzonrocha/blob/output/github-contribution-grid-snake.svg)
+  
   
   
